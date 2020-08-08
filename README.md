@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with Competitive Programming.
 - 😄 Pronouns: He/Him👦.
 - 📫 How to reach me:
-</br>
-<a href="https://www.instagram.com/_simran_18/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_simran_18" height="20" width="20" /></a>
+<br/><a href="https://www.instagram.com/_simran_18/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_simran_18" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/isimran/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="isimran" height="20" width="20" /></a>
 
 ![Simran's github stats](https://github-readme-stats.vercel.app/api?username=simran1802&show_icons=true&hide_border=true)
