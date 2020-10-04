@@ -15,6 +15,7 @@ Languages and Tools:
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
 <code><img height="20" src="https://sentry.io/_assets/logos/django-f6f336cde20615169bbf4441c748188dd9903908bc6af952df3bd8f899c55a41.svg"></code>
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
+<br/>
 
 ![Simran's github stats](https://github-readme-stats.vercel.app/api?username=simran1802&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simran1802&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
