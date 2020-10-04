@@ -8,7 +8,7 @@
 - 📫 How to reach me:
 <br/><a href="https://www.instagram.com/_simran_18/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_simran_18" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/isimran/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="isimran" height="20" width="20" /></a>
-**Languages and Tools:**  
+<br/>**Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
