@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/isimran/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="isimran" height="20" width="20" /></a>
 <br/>
 **Languages and Tools:**  
-<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
