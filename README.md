@@ -8,6 +8,7 @@
 - 📫 How to reach me:
 <br/><a href="https://www.instagram.com/_simran_18/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_simran_18" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/isimran/" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="isimran" height="20" width="20" /></a>
+<br/>
 **Languages and Tools:**  
 <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
