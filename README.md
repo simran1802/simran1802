@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Simranpreet Singh 👤
 ### About Me:-
-- 🌱 I’m currently learning DevOps and Cloud Computing.
+- 🌱 I’m currently learning Big Data and Azure Cloud.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Competitive Programming.
 - 😄 Pronouns: He/Him👦.
